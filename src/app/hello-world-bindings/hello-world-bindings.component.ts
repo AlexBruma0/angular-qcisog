@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './hello-world-bindings.component.html',
 })
 export class HelloWorldBindingsComponent {
-  fontColor = 'blue';
+  fontColor = 'purple';
   sayHelloId = 1;
   canClick = false;
   message = 'Hello, World';
